@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+}
+input{
+    display: block;
+    text-align: center;
+    width: 5%;
+    margin: 25px auto;
+    border: 2px solid burlywood;
+    color: blueviolet;
+    border-radius: 10px;
+}
+input:hover{
+    background-color: burlywood;
+    color: blueviolet;
+}
+.h{
+    color: purple;
+    background-color: bisque;
+    width: 30%;
+    margin: 25px auto;
+}
+.section{
+    background-image: url(../images/htm.png);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 0;    
+}
